@@ -33,7 +33,7 @@ Embarking on a data-driven path, I'm focused on honing my skills and building im
 | **Data Analysis/Viz** | Data Analysis and Visualization Tools     |
 
 ### Portfolio Projects:
-* 💼 Data Warehouse development (SQL data engineering)
+* 💼 [Data Warehouse development] (SQL data engineering) (https://github.com/Timaxrus/sql-data-warehouse-project)
 * 💼 Marketing analysis (Power BI)
 * 💼 Sales analysis (Power BI)
 * 💼 Covid-19 analysis (Tableau)
