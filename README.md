@@ -1,4 +1,4 @@
-# Timur Abdukarimov
+# Timur Abdukarimov 
 A Data Enthusiast | Driven by Curiosity | Committed to Growth
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/timurabdukarimov/)
@@ -19,7 +19,7 @@ Embarking on a data-driven path, I'm focused on honing my skills and building im
 
 ### Key Interests
 
-* 📊 Data Analysis
+* 📊 Data Analysis (https://github.com/Timaxrus/sql-data-warehouse-project)
 * 📈 Data Visualization
 * 🧮 Statistics
 * 🤖 Machine Learning (Exploring)
