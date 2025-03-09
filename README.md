@@ -112,6 +112,9 @@ My diverse background provides a unique perspective to my data science journey:
 * Power BI, Data Analysis, Data Visualization, Data Cleaning
 * MS SQL Server
 * Python
+## Skills Visualization
+
+![Skills Chart](images/skills_chart.png)
 
 ## Contact
 
@@ -119,11 +122,4 @@ My diverse background provides a unique perspective to my data science journey:
 * <timaxrus@gmail.com>
 * [LinkedIn](https://www.linkedin.com/in/timurabdukarimov/)
 
-### Key Changes Made:
 
-* **Conciseness:** I removed redundant phrases and focused on the core achievements for each role.
-* **Bullet Points:** I used bullet points to list the achievements, making them easier to read.
-* **Stronger Action Verbs:** I used stronger action verbs to start each bullet point (e.g., "Managed," "Streamlined," "Implemented").
-* **Focus on Impact:** I tried to highlight the impact of your actions (e.g., "improved efficiency," "ensured data integrity").
-
-This revised version provides a more focused and impactful summary of your work experience while still showcasing the breadth of your skills and background.
