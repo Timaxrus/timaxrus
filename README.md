@@ -19,7 +19,7 @@ Embarking on a data-driven path, I'm focused on honing my skills and building im
 
 ### Key Interests
 
-* 📊 Data Analysis (https://github.com/Timaxrus/sql-data-warehouse-project)
+* 📊 Data Analysis
 * 📈 Data Visualization
 * 🧮 Statistics
 * 🤖 Machine Learning (Exploring)
