@@ -7,7 +7,7 @@ A Data Enthusiast | Driven by Curiosity | Committed to Growth
 
 ## About Me
 
-> "Always seeking opportunities and challenges to learn and grow, I am passionate about data and leveraging it for data-driven decision-making. My background includes extensive experience in supply chain, Finance, HR, administration, and translation, providing a strong foundation for my current focus on data science. I am dedicated to finding effective solutions to complex problems and contributing to a better world through data."
+> *"Always seeking opportunities and challenges to learn and grow, I am passionate about data and leveraging it for data-driven decision-making. My background includes extensive experience in supply chain, Finance, HR, administration, and translation, providing a strong foundation for my current focus on data science. I am dedicated to finding effective solutions to complex problems and contributing to a better world through data."*
 
 <br>
 
@@ -33,15 +33,15 @@ Embarking on a data-driven path, I'm focused on honing my skills and building im
 | **Data Analysis/Viz** | Data Analysis and Visualization Tools     |
 
 ### Portfolio Projects:
-* 💼 [Data Warehouse development](https://github.com/Timaxrus/sql-data-warehouse-project)  (SQL data engineering) 
-* 💼 [Marketing analysis](https://github.com/Timaxrus/UniSport-Company-Marketing-Analytics) (Power BI)
-* 💼 Sales analysis (Power BI)
-* 💼 [Covid-19 analysis](https://github.com/Timaxrus/COVID-19-ANALYSIS-2020) (Tableau)
+- 💼 [Data Warehouse development](https://github.com/Timaxrus/sql-data-warehouse-project)  (SQL data engineering) 
+- 💼 [Marketing analysis](https://github.com/Timaxrus/UniSport-Company-Marketing-Analytics) (Power BI)
+- 💼 Sales analysis (Power BI)
+- 💼 [Covid-19 analysis](https://github.com/Timaxrus/COVID-19-ANALYSIS-2020) (Tableau)
 
 ## Contact
 
-* \+998 (97) 7874006
-* <timaxrus@gmail.com>
-* [LinkedIn](https://www.linkedin.com/in/timurabdukarimov/)
+- 📱 \+998 (97) 7874006
+- 📧 <timaxrus@gmail.com>
+- ▶️ [LinkedIn](https://www.linkedin.com/in/timurabdukarimov/)
 
 
