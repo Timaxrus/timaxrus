@@ -12,6 +12,7 @@ A Data Enthusiast | Driven by Curiosity | Committed to Growth
 > I thrive on turning complex information into actionable insights. My journey blends a solid professional foundation with a deep dive into the world of data. I'm excited to connect and explore opportunities where I can apply my skills to make a real difference."*
 
 <br>
+
 ## Data Science Journey
 
 Embarking on a data-driven path, I'm focused on honing my skills and building impactful projects.
