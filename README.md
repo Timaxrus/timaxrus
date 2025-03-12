@@ -7,7 +7,7 @@ A Data Enthusiast | Driven by Curiosity | Committed to Growth
 
 ## About Me
 
-> *"Always seeking opportunities and challenges to learn and grow, I am passionate about data and leveraging it for data-driven decision-making. My background includes extensive experience in supply chain, Finance, HR, administration, and translation, providing a strong foundation for my current focus on data analytics. I am dedicated to finding effective solutions to complex problems and contributing to a better world through data.
+> *"Always seeking opportunities and challenges to learn and grow, I am passionate about data and leveraging it for data-driven decision-making. My background includes extensive experience in Supply chain, Finance, HR, administration, Data Management, and translation, providing a strong foundation for my current focus on data analytics. I am dedicated to finding effective solutions to complex problems and contributing to a better world through data.
 > <br>
 > I thrive on turning complex information into actionable insights. My journey blends a solid professional foundation with a deep dive into the world of data. I'm excited to connect and explore opportunities where I can apply my skills to make a real difference."*
 
