@@ -33,9 +33,9 @@ Embarking on a data-driven path, I'm focused on honing my skills and building im
 | **Data Analysis/Viz** | Data Analysis and Visualization Tools     |
 
 ### Portfolio Projects:
-- 💼 [Data Warehouse development](https://github.com/Timaxrus/sql-data-warehouse-project)  (SQL data engineering) 
+- 💼 [Data Warehouse development](https://github.com/Timaxrus/sql-data-warehouse-project)  (SQL data engineering)
+- 💼 [Data Exploration & Analysis](https://github.com/Timaxrus/sql-data-exploration-and-analytics-project) (SQL data analytics)
 - 💼 [Marketing analysis](https://github.com/Timaxrus/UniSport-Company-Marketing-Analytics) (Power BI)
-- 💼 Sales analysis (Power BI)
 - 💼 [Covid-19 analysis](https://github.com/Timaxrus/COVID-19-ANALYSIS-2020) (Tableau)
 
 ## Contact
